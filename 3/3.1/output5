@@ -1,4 +1,4 @@
-[false, true, true, true, false, false, "This seat is taken!", "This seat is taken!", [
+[false, true, true, true, false, "This seat is taken!", "This seat is taken!", [
 ["B", "W", "B", " ", " ", "W", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
 [" ", "W", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
 [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
