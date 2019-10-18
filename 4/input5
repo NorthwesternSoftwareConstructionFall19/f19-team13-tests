@@ -1,8 +1,4 @@
-#Rule 8: A play is illegal if it would have the effect of creating the immediately previous board (ko)
-
-#Rule 3: 181 "B" stones only, 180 "W" stones only
-
-
+SS
 ["W", ["19-1",[
 ["W", "W","W","W","W","W","W","W","W","W","W","W","W","W","W","W","W","W","W"]
 ["W", "W","W","W","W","W","W","W","W","W","W","W","W","W","W","W","W","W","W"]
